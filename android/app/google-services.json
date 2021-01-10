@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "475689003635",
+    "firebase_url": "https://social-app-demo-8dbac.firebaseio.com",
+    "project_id": "social-app-demo-8dbac",
+    "storage_bucket": "social-app-demo-8dbac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475689003635:android:45d01d973ecdae260ed806",
+        "android_client_info": {
+          "package_name": "ilhan.com.client_demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475689003635-gg246stfast7b4jdofgjebfgkv7prcan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLdtCcBNtb9Q1JE5S3hGVZev3X5RsKNFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475689003635-gg246stfast7b4jdofgjebfgkv7prcan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
